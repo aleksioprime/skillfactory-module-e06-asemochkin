@@ -9,6 +9,6 @@
 1. Скачать репозиторий на локальный диск
 2. Установить все зависимости для docker и docker-compose
 3. Собрать контейнеры:
-''' sudo docker-compose build '''
+'' sudo docker-compose build ''
 4. Запустить контейнеры:
 ''' sudo docker-compose up '''
